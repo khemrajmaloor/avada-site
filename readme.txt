@@ -1,0 +1,1 @@
+This is a avada theme create for testing purpose.
