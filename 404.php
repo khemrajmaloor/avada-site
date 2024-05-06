@@ -1,6 +1,8 @@
 <?php 
+get_header();
 
+echo "Page not found !";
 
-  echo "Page not found !";
+get_footer();
 
 ?>
