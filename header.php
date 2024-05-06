@@ -12,6 +12,7 @@ if (!defined('ABSPATH')) {
         <?php wp_head(); ?>
     </head>
     <body <?php body_class();?>>
+    <h2>Header section.</h2>
     
         
     
