@@ -7,6 +7,6 @@ if (!defined('ABSPATH')) {
 
 get_header();
 
-the_content();
+echo "Landing page.";
 
 get_footer();
